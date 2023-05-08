@@ -25,6 +25,7 @@ REQUIRES = [
     "certifi >= 14.5.14",
     "frozendict ~= 2.3.4",
     "python-dateutil ~= 2.7.0",
+    "pytest ~= 7.3.1",
     "setuptools >= 21.0.0",
     "typing_extensions ~= 4.3.0",
     "urllib3 ~= 1.26.7",
